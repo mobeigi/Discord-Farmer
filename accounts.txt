@@ -1,0 +1,2 @@
+# Tab separated list of email[tab]discord_pass[tab]token
+testemail@example.com	w5d6wd1w68	MzY0MDM2M62DMTM1Mzc4NDQz.DLJ_pg.Q829W372FKvqo-sKZQ7eSWn0rtU
